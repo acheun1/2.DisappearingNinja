@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* outline:1px solid red;  */
+   }
+#wrapper{
+    width: 1000px;
+    margin: 0px auto;
+    }
+    #header, #footer{
+        margin: 20px ;
+    }
+    #header p, #footer p{
+        border: 3px solid black;
+        margin: 20px 0px;
+        width: 700px ;
+    }
+    #body img{
+        width: 25% ;
+    }
+    #wrapper button{
+        border-radius: 5px;
+        background-color: red;
+        color: white;
+        width: 75px;
+        height: 25px;
+    }
+
+
+
+
